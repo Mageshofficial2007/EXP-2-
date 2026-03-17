@@ -79,3 +79,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus created a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met is executed successfully.
